@@ -14,7 +14,7 @@ NAME = 'swedish-house-ml'
 DESCRIPTION = 'An ML project exploring correlation of cover art to music quality '
 URL = 'https://github.com/veekaybee/swedish-house-ml'
 EMAIL = 'swedishouseml@gmail.com'
-AUTHOR = 'John Bjorn Nelson and Vicki Boykis'
+AUTHOR = 'Vicki Boykis and John Bjorn Nelson'
 
 # What packages are required for this module to be executed?
 REQUIRED = [
